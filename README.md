@@ -12,6 +12,8 @@ Pensphere is a responsive blogging platform designed with an intuitive user inte
 ![User Authentication](https://github.com/arunks2003/images/blob/main/penshpere_img/Screenshot%202024-10-15%20114043.png)
 ![User Registration](https://github.com/arunks2003/images/blob/main/penshpere_img/Screenshot%202024-10-15%20114059.png)
 ![Search Functionality](https://github.com/arunks2003/images/blob/main/penshpere_img/search_func.png)
+![Change Password Func](https://github.com/arunks2003/images/blob/main/penshpere_img/email_verif_pass_change.png)
+![All Blogs](https://github.com/arunks2003/images/blob/main/penshpere_img/all_blogs.png)
 
 ## Features
 
